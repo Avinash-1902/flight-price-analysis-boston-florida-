@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual env
+venv/
+.env
+
+# Power BI temp files
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large or sensitive raw data
+data/raw/
