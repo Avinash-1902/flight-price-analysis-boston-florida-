@@ -27,6 +27,8 @@ Compare airfare across airlines and destinations:
 - Destination fare comparison
 - Price vs number of stops
 
+<img width="1178" height="659" alt="image" src="https://github.com/user-attachments/assets/092db6ac-4d50-4dfb-a325-7809f83ee375" />
+
 ## Folder Structure
 - `scripts/` → scraping and cleaning scripts
 - `data/processed/` → cleaned CSV for dashboard
